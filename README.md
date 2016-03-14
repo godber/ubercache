@@ -15,3 +15,7 @@ to work, but I haven't tried actually using it with apt-cache.
 
 I just wanted to get this up on github so I didn't completely lose the work and
 maybe someone will pick it up or remind me about it some day.
+
+The main usecase for this is for providing Vagrant boxes a quick and convenient
+cache.  Though maybe it would be a good alternative to other mirror/cache
+solutions.
